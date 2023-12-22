@@ -1,1 +1,1 @@
-Notepad++,LibreOffice,VirtualBOX
+Notepad++,VirtualBOX
